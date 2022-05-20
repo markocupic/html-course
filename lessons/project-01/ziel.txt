@@ -1,0 +1,12 @@
+Project 01
+
+Hier lernst du, wie man Tags mit CSS stylen kann. CSS benutzt du, um
+das Aussehen der Seite zu verändern. Du kannst mit dem style Attribut jedes Tag mit CSS stylen.
+
+Verändere die Webseite, so dass sie dir besser gefällt.
+- Nutze andere Hintergrundfarben
+- Nutze andere Textfarben
+- Experimentiere etwas mit den Abständen.
+- Experimentiere mit der Schriftgrösse.
+- Experimentiere mit der Schrift.
+- Experimentiere mit dem Rand (border).

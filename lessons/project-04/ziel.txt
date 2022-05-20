@@ -1,0 +1,36 @@
+Project 04
+
+In der letzten Aufgabe hast du gelernt, dass man das Stylesheet im Head-Bereich einbinden soll
+und keine Styleangaben in den HTML Tags machen soll.
+
+Eigentlich weisst du jetzt schon sehr viel. Wie wärs, wenn du jetzt deine eigene Webseite angehst?
+
+Entscheide dich für ein Thema.
+
+- Du kannst dein Hobby näher vorstellen.
+- Du kannst ein Steckbrief über ein Tier machen.
+- Du kannst eine Sportarte näher vorstellen.
+- Du kannst eine Stadt oder ein Land vorstellen.
+
+Teile deine Webseite in mind. 3 Bereiche auf. Nutze dafür die drei Tags:
+- <header></header>
+- <main></main>
+- <footer></footer>
+
+Benutze für deine Webseite möglichst viele Tags.
+- Überschriften
+- Textabschnitte
+- Boxen
+- Bilder
+- Links
+- Youtube Filme
+- Sounds
+- Nutze Hintergrundfarben und versch. Schriftfarben.
+
+
+Damit du nicht bei 0 anfangen musst, kannst du mein Gerüst übernehmen.
+Wichtig! Schaue unbedingt ins Stylesheet. Einige Klassen habe ich dir bereits vordefiniert.
+Du kannst sie benutzen, abändern oder neue Klasse hinzufügen. Pass auf, dass du den Überblick nicht verlierst.
+Ach ja... Etwas Englischkenntnisse sind von Vorteil. Die Sprache der Programmierer ist nämlich Englisch.
+
+Let's go!

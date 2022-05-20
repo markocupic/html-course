@@ -1,0 +1,12 @@
+Project 02
+
+Hier lernst du, wie man Stylen kann, ohne das Tag mit dem Style-Attribut zu überladen.
+Stelle dir vor, du hast eine Webseite mit ganz vielen Elementen und jedes Element hat ganz viele Styles.
+Das wird schnell übersichtlich nicht?
+
+Damit du nicht den Überblick verlierst, versuchen wir die Tags vom Style zu trennen.
+Hier kommt das Klassenattribut ins Spiel.
+
+Verändere den Style dieser Webseite so, dass die Tags kein Style-Attribut mehr haben.
+
+Let's go!

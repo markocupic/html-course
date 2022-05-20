@@ -1,0 +1,22 @@
+Project 05
+
+In der letzten Aufgabe hast du angefangen deine Webseite zu bauen. Du hast bemerkt, dass es ganz schön knifflig sein kann,
+ die Seite so zu gestalten, wie du es gerne hättest. Sehr viel Wissen und Erfahrung wird vorausgesetzt.
+
+Aber keine Angst! Kein Webdesigner macht alles von Hand. Für immer wiederkehrende Probleme gibt es kleine Helferchen, sogenannte Frameworks.
+Das berühmteste und am meisten verwendete Framework heisst Bootstrap.
+
+Die Idee hinter Bootstrap ist ganz simpel. Du vergibst den HTML Tags ganz bestimmte Klassen. Etwas salopp erklärt, durchscannt Bootstrap beim sog. Rendern deienr Seite
+deinen HTML-Code nach diesen vordefinierten Bootstrap-Klassen und verändert dann das Aussehen. Das heisst, Bootstrap erlöst dich von ganz viel lästiger
+CSS-Arbeit. Voraussetzung ist jedoch, dass du alle Bootsrap-Klassen kennst. ;-) Keine Angst, auch das iost nicht nötig. Bootstrap ist
+sehr gut dokumentiert und alles wird sehr genau erklärt. Leider nur in englischer Sprache.
+
+Schau dich mal um auf https://getbootstrap.com/
+
+- Wie wärs, wenn du deine Seite mit einem Bilder-Karussel erweiterst.
+  Gehe dazu auf: https://getbootstrap.com/docs/5.2/components/carousel/
+
+- Du kannst ein mehrspaltiges Layout sehr einfach mit nur zwei Klassen erstellen.
+  Gehe dazu auf: https://getbootstrap.com/docs/5.2/layout/columns/
+
+Let's go!

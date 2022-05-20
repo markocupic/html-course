@@ -1,0 +1,28 @@
+/**
+ * In CSS sehen Kommentare etwas anders aus.
+ *
+ * Hast du gesehen? Jede Klasse beginnt mit einem Punkt.
+ * So sagst du dem Browser: 'Suche das Tag mit der Klasse 'website-body'
+ * und style es mir so und so...
+ */
+.website-body {
+    background: blue;
+    font-family: impact;
+}
+
+/**
+ * Alle Elemente mit der p16 Klasse bekommen einen
+ * Innenabstand von 16px.
+ */
+.p16 {
+    padding: 16px;
+}
+
+/**
+ * Jetzt machst du weiter ;-)
+ */
+.my-super-class {
+}
+
+.my-other-super-class {
+}

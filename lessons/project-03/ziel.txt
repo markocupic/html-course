@@ -1,0 +1,21 @@
+Project 03
+
+In der letzten Aufgabe hast du gelernt, dass man Style und Tag voneinader trennen soll. 
+Der Code wirkt deshalb schon viel aufgeräumter. Trotzdem sind die Tags und der Style immer noch in der selben Datei, und
+das ist nicht praktisch, wenn du deine Styleangaben in einer anderen Datei wiederverwenden möchtest. 
+Stell dir vor, deine Webseite besteht aus 10 Seiten und du möchtest die Schriftfarbe von rot auf grün wechseln. 
+Das würde bedeuten, dass du in allen 10 Seiten die Farbe wechseln musst. Eine Webseite mit 10 Seiten ist eine sehr kleine Webseite. 
+Webseiten grosser Unternehmen bestehen aus 100 und mehr Seiten. Du müsstest die Farbe in allen 100 Seiten anpassen. Das ist
+nicht effizient. 
+
+Deshalb ist man dazu übergegangen den Style in einer separaten Datei abzulegen, dem sogenannten Stylesheet. 
+Das Stylesheet wird dann zuoberst im head Bereich der Seite eingebunden. 
+
+Das Stylesheet ist in unserem Beispiel im Unterverzeichnis "style" abgelegt. 
+
+Auftrag:
+Dein Auftrag besteht nun darin, dass du das Projekt 02 nun so anpasst, dass alle Styles im Stylesheet definiert werden. 
+Das ist jetzt keine grosse Hexerei mehr. Alle Klassen hast du ja bereits definiert. 
+
+
+Let's go!

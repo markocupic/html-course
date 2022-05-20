@@ -1,0 +1,6 @@
+Project 0
+
+Hier lernst du, wie eine einfache Webseite aufgebaut ist und du lernst
+die ersten Tags und Attribute kennen.
+
+In einer ersten Arbeit baust du einen kurzen Steckbrief mit Titel, Bild und etwas Text.
